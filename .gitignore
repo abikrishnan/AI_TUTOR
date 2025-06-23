@@ -1,0 +1,9 @@
+# System-wide ignores
+.DS_Store
+.env
+*.log
+*.sqlite3
+*.db
+.vscode/
+*.swp
+*.tmp
